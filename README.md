@@ -27,16 +27,15 @@ The Windows Desktop App allows users to create new submissions and view existing
 ### Setup Instructions
 
 1. **Clone the Repository**
-
+   ```bash
    git clone https://github.com/your-username/form-submission.git
    cd form-submission
-   ```
-
+ 
 2. **Open and Build the Project in Visual Studio**
-
+   ```bash
    - Open the solution file (`FormSubmission.sln`) in Visual Studio.
    - Build the solution (`Ctrl + Shift + B`).
-   ```
+
 
 3. **Run the Application**
 
