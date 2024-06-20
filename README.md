@@ -65,7 +65,7 @@ The Express server handles API requests for storing and retrieving form submissi
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Rohit1170/FormSubmission.git
+   git clone [https://github.com/Rohit1170/FormSubmission.git](https://github.com/Rohit1170/FormSubmission.git)
    cd FormSubmission
    ```
 
