@@ -26,8 +26,8 @@ The Windows Desktop App allows users to create new submissions and view existing
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/form-submission.git
-   cd form-submission
+   git clone https://github.com/Rohit1170/FormSubmission.git
+   cd FormSubmission
  
 2. **Open and Build the Project in Visual Studio**
    ```bash
@@ -65,7 +65,7 @@ The Express server handles API requests for storing and retrieving form submissi
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/Rohit1170/FormSubmission.git](https://github.com/Rohit1170/FormSubmission.git)
+   git clone https://github.com/Rohit1170/FormSubmission.git
    cd FormSubmission
    ```
 
