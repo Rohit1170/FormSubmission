@@ -1,0 +1,23 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john@hotmail.com",
+    "phone": "98764312",
+    "github_link": "johndoe.githubLink",
+    "stopwatch_time": "00:00:07"
+  },
+  {
+    "name": "Qwerty",
+    "email": "Qwerty@yahoo.com",
+    "phone": "3216549874",
+    "github_link": "QwertyGithubDetails",
+    "stopwatch_time": "00:00:31"
+  },
+  {
+    "name": "ABC",
+    "email": "abc@gmail.com",
+    "phone": "4569873215",
+    "github_link": "abcGitHub",
+    "stopwatch_time": "00:00:16"
+  }
+]
