@@ -26,17 +26,14 @@ The Windows Desktop App allows users to create new submissions and view existing
 
 ### Setup Instructions
 
-```markdown
 1. **Clone the Repository**
 
-   ```bash
    git clone https://github.com/your-username/form-submission.git
    cd form-submission
    ```
 
 2. **Open and Build the Project in Visual Studio**
 
-   ```markdown
    - Open the solution file (`FormSubmission.sln`) in Visual Studio.
    - Build the solution (`Ctrl + Shift + B`).
    ```
@@ -49,9 +46,8 @@ The Windows Desktop App allows users to create new submissions and view existing
 
    - Use the application to create new submissions and navigate through existing submissions.
    - Ensure you have an active internet connection to submit and retrieve data from the backend server.
-```
 
----
+
 ## Express Server (Backend)
 
 ### Overview
@@ -70,16 +66,13 @@ The Express server handles API requests for storing and retrieving form submissi
 
 ### Setup Instructions
 
-```markdown
 1. **Clone the Repository**
-
    ```bash
    git clone https://github.com/your-username/form-submission-server.git
    cd form-submission-server
    ```
 
 2. **Install Dependencies**
-
    ```bash
    npm install
    ```
@@ -95,12 +88,12 @@ The Express server handles API requests for storing and retrieving form submissi
    - Start the server:
 
      ```bash
-     node dist/server.js
+     npm run dev
      ```
 
 4. **Database**
 
-   - Submissions are stored in `db.json` file in JSON format.
+   - Submissions are stored in `data.json` file in JSON format.
 
 ### Endpoints
 
@@ -128,5 +121,3 @@ The Express server handles API requests for storing and retrieving form submissi
 - Your Name
 - GitHub: [Your GitHub Profile](https://github.com/Rohit1170)
 ```
-
-Replace placeholders like `your-username`, `FormSubmission.sln`, `screenshots`, and adjust paths and commands as per your actual project structure and setup. This format keeps the entire README content enclosed in a code block.
