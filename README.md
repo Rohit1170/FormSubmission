@@ -15,12 +15,10 @@ The Windows Desktop App allows users to create new submissions and view existing
 ### Screenshots
 
 1. **Create New Submission Form**
-   ![Create New Submission Form]
    ![image](https://github.com/Rohit1170/FormSubmission/assets/87237888/ebd832a6-1e04-44ca-980f-340f3094168c)
 
 
 2. **View Submissions Form**
-   ![View Submissions Form]
    ![image](https://github.com/Rohit1170/FormSubmission/assets/87237888/a814c9d0-36f6-462e-8ad7-04ad6865ec47)
 
 
